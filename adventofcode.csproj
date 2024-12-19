@@ -10,4 +10,5 @@
     <PackageReference Include="AngleSharp" Version="0.14.0" />
     <PackageReference Include="AngleSharp.Css" Version="0.14.0" />
   </ItemGroup>
+  <!-- Remove any ProjectReference to the test project -->
 </Project>
